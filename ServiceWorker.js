@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-VOSS_PowerFactory_2022URP_WebGL_1920_1080-0.1.0";
 const contentToCache = [
-    "Build/VOSS_WebGL.loader.js",
-    "Build/VOSS_WebGL.framework.js.unityweb",
-    "Build/VOSS_WebGL.data.unityweb",
-    "Build/VOSS_WebGL.wasm.unityweb",
+    "Build/VOSS_WebGL_2.loader.js",
+    "Build/VOSS_WebGL_2.framework.js.unityweb",
+    "Build/VOSS_WebGL_2.data.unityweb",
+    "Build/VOSS_WebGL_2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
